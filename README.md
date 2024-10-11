@@ -13,6 +13,13 @@ Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops
 
 This workshop introduces the fundamentals of SQL, with a focus on using SQLite for data science tasks. We'll explore how SQL can be used to query and manipulate relational databases, leveraging pandas to interact with the results in Python. This hands-on workshop includes exercises based on real-world datasets.
 
+
+## Why SQLite?
+
+The examples for this workshop will only use SQLite... Why?
+
+[SQLite: the most ubiquitous database on the planet. And beyond!](https://nurkiewicz.com/2023/01/sqlite.html)
+
 ### Key Topics Covered
 - Introduction to SQL and relational databases
 - SQLite setup and integration with Python (pandas)
