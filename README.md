@@ -1,3 +1,6 @@
+# To get to this notebook go to:
+# https://dlab.berkeley.edu/sql
+
 # Draft SQL Fundamentals Workshop for Masters in Computational Social Science (MaCSS)
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](http://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Faculich%2Fsql-fun-draft&urlpath=lab%2Ftree%2Fsql-fun-draft%2F) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aculich/sql-fun-draft/HEAD) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
